@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+body {
+  width: 100%;
+  height: 100vh; }
+
+.main-container {
+  display: grid;
+  width: 100%; }
+
+.row {
+  grid-template-rows: auto;
+  background-color: blue; }
+
+.column {
+  grid-template-columns: auto;
+  background-color: beige; }
+
+/*# sourceMappingURL=styles.css.map */

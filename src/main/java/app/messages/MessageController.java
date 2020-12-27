@@ -11,7 +11,7 @@ public class MessageController {
     @GetMapping("/welcome")
     @ResponseBody
     public String welcome(){
-        return "Hello, Welcome to Spring Boot!";
+        return "First Controller Added!";
     }
 
 }
